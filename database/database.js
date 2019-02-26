@@ -6,6 +6,7 @@ var config = {
   //user: 'postgres',
   //database: 'TalleresBD', 
   //password: 'postgres123', 
+  host: 'ec2-54-225-237-84.compute-1.amazonaws.com',
   user: 'yblnujhratywfx',
   database: 'd7u53hecedfq97', 
   password: '5a8bc60b8d58c11e2af2658e956f40f2bd2f934801d7e217f2521784bec26755', 
