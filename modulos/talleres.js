@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 4010;
 var corsOptions = {
   //origin: 'http://localhost:4200',
   //origin: 'http://192.168.0.6:4200',
-  origin: 'https://reparaciones-talleres.herokuapp.com/', // INTERNET
+  origin: 'https://reparaciones-talleres.herokuapp.com', // INTERNET
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204 
 };
 
